@@ -11,9 +11,9 @@ use whichever launcher to run the game for whichever desired fps in game you wis
 
 if you wish you can create a shortcut from these onto your desktop to run the game from that.
 
+if you would like to leave feedback or submit a bug please use the form provided:
 
-
-
+https://docs.google.com/forms/d/e/1FAIpQLScQtDwI-EQSm0X7Rdycsyz061FFO_yn465ywzFC8voOoDMn9A/viewform?usp=sharing
 
 brought to you by the Fix Enhancers Team 
 
